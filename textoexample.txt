@@ -1,4 +1,4 @@
 "Aula de laboratorio do dia 01 do 08" 
-"Feijao "
-"Calabresa"
-"Arroz"
+"Arros e feijao"
+"TInta"
+"Vaca"
